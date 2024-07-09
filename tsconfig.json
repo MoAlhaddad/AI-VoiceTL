@@ -27,6 +27,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/components/SpeechRecognition/SpeechRecognition.jsx"
-  ],
+, "src/components/Inputs/FileUpload.jsx"  ],
   "exclude": ["node_modules"]
 }
